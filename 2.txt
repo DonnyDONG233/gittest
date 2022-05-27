@@ -2,3 +2,6 @@ ffff
 ccc
 ccc
 bbbbb
+to checkout
+
+to diff
